@@ -1,3 +1,4 @@
+"use strict";
 // var var_name : data_type = value;
 var num1 = 15;
 var num2 = 20;

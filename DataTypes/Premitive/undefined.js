@@ -1,3 +1,4 @@
+"use strict";
 var type = undefined;
 var change = undefined;
 change = "Hello, String Type!";

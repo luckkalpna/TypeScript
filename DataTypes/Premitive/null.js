@@ -1,3 +1,4 @@
+"use strict";
 var data = null;
 var val = null;
 val = "Hello, String Type!";
